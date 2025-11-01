@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: khaki;
+}
+
+.header{
+    width: 1024px;
+    background-color:beige;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: 2px black solid;
+    margin: 10px auto;
+}
+
+.recipes-list{
+    border: 2px black solid;
+    width: 1024px;
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.lasagna,
+.schnitzel,
+.cookies{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px black solid;
+    padding: 2px;
+    margin: 5px;
+}
+
+
+
+
+
+

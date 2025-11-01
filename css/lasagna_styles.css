@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+}
+
+.home-tag{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.title{
+    border: 5px black solid;
+    font-family: 'Times New Roman', Times, serif;
+    width: 1024px;
+    padding: 2px;
+    text-align: center;
+    font-size: 40px;
+    padding: 5px;
+    background-color: yellow;
+    margin: 5px auto;
+}
+
+
+.lasagna-image{
+    height: 1024px;
+    width: 1024px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px auto;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.lasagna-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.para {
+    background-color: khaki;
+    font-size: 35px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1024px;
+    border: 5px solid black;
+    padding: 2.5px;
+    margin: 5px auto;
+}
